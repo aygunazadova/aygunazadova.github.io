@@ -1,6 +1,6 @@
 ## Research Experience 
 
-+ Honorary Fellow at the School of Life Sciences Department, Essex University, 2025-present
++ Honorary Fellow at the School of Life Sciences Department, Essex University, Aug 2025-present
   
 + Specialist Technician at the School of Life Sciences Department, Essex University, May 2023 – 
 Jul 2023
