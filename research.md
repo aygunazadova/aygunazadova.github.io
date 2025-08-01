@@ -8,6 +8,7 @@ Projects:
 + Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death
   
 **Specialist Technician at the School of Life Sciences Department, Essex University, May 2023-Jul 2023**
+
 Projects:
 + Analysis of coding gene expression from small RNA sequencing
 
