@@ -1,8 +1,5 @@
 
 
- &nbsp;  <!-- This creates a blank space -->
-
- 
 # Welcome to my personal website
 
  &nbsp;  <!-- This creates a blank space -->
