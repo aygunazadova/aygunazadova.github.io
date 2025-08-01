@@ -11,6 +11,7 @@ I have comprehensive experience in computational biology through both research a
 
 ## Selected Awards
 
++ Excellence in Education Award 2024
 + Rise Professional Award, German Academic Exchange Service (known as DAAD), 2024
 + United States Agency for International     Development (USAID) for Next generation sequencing (NGS) workshop, Dubai, United Arab Amirates, 2019
 + Stipendium Hungaricum Scholarship for Master’s degree, Tempus Public Foundation, 2016-2018
