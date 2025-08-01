@@ -12,7 +12,7 @@
 **Lecturer/Module Leader in Biology at Essex Pathways Department, University of Essex, 2023-2025**
 + IA102 Introduction to Biology
 
-**Graduate Laboratory Assistant at the School of LIfe Sciences, University of Essex, 2021-2025**
+**Graduate Laboratory Assistant at the School of Life Sciences, University of Essex, 2021-2025**
 
 + BS132 General and Organic Chemistry
 + BS237 Clinical Biochemistry
