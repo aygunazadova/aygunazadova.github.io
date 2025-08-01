@@ -22,7 +22,7 @@ Projects:
 + Brooke, G., Culley, R., Leach, D., Latonen, L., Rees, E., Alkheilewi, M., Pine, A., Fioretti, F., Reader, C., Azadova, A. and Powell, S., 2025. Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer.
 
 **Conference material**
-+ Azadova, A., Brooke, G. and Marco, A., 2024. Abstract LB335: Steroid receptor cross-talk in breast cancer. Cancer Research, 84(7_Supplement), pp.LB335-LB335.
++ Azadova, A., Brooke, G. and Marco, A., 2024. Abstract LB335: Steroid receptor cross-talk in breast cancer. _Cancer Research_, 84(7_Supplement), pp.LB335-LB335.
 
 **Working papers**
 + Amna Allafi, Ellie Rees, Rashin Khalaj, Aygun Azadova, Andrea Mohr, Ralf Zwazka, Philippe Laissue, Greg N. Brooke "Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death"
