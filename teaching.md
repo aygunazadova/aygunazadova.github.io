@@ -1,9 +1,11 @@
+<div style="font-family: Arial, sans-serif;">
+This page uses Arial font.
+</div>
+
 # Teaching
 
 
 &nbsp;  <!-- This creates a blank space -->
-
-
 
 
 ## Teaching Qualifications
