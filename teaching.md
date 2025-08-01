@@ -1,6 +1,7 @@
 # Teaching
 
 
+&nbsp;  <!-- This creates a blank space -->
 
 
 ## Teaching Qualifications
