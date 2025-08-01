@@ -1,6 +1,7 @@
 ## Research Experience 
 
 **Honorary Fellow at the School of Life Sciences Department, Essex University, Aug 2025-present**
+
 Projects:
 + The p90 Ribosomal S6 Kinases 2 and 4 promote Prostate Cancer cell proliferation in androgen-dependent and independent ways
 + Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer
