@@ -38,3 +38,18 @@ Graduate Laboratory Assistant at Essex Pathways Department, University of Essex,
 ## Publications in Education 
 
 Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedback in Higher Education" (Working paper) 
+
+
+
+---
+
+<div style="margin-top: 40px; font-size: 14px; color: #555;">
+  <p>
+    © 2025 Aygun Azadova. All rights reserved.
+    <span style="float: right;">
+      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">LinkedIn</a>
+    </span>
+  </p>
+</div>
+
+
