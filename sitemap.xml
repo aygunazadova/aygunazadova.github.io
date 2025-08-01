@@ -5,11 +5,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://aygunazadova.github.io/research.html</loc>
+    <loc>https://aygunazadova.github.io/research</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://aygunazadova.github.io/teaching.html</loc>
+    <loc>https://aygunazadova.github.io/teaching</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
