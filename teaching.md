@@ -1,5 +1,3 @@
-<div style="font-family: Georgia, 'Times New Roman', serif;">
-
 
 ## Teaching Qualifications & Awards
 
