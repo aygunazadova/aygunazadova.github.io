@@ -6,7 +6,7 @@
 + Cronin, R., Azadova, A., Marco, A., Laissue, P.P., Brooke, G.N. and Prischi, F., 2024. The p90 Ribosomal S6 Kinases 2 and 4 promote Prostate Cancer cell proliferation in androgen-dependent and independent ways. bioRxiv, pp.2024-03.
 + Brooke, G., Culley, R., Leach, D., Latonen, L., Rees, E., Alkheilewi, M., Pine, A., Fioretti, F., Reader, C., Azadova, A. and Powell, S., 2025. Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer.
 
-**Conferance material**
+**Conference material**
 + Azadova, A., Brooke, G. and Marco, A., 2024. Abstract LB335: Steroid receptor cross-talk in breast cancer. Cancer Research, 84(7_Supplement), pp.LB335-LB335.
 
 **Working papers**
