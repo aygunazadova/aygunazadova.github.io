@@ -1,10 +1,7 @@
----
-layout: default
-title: Teaching
----
+# Teaching
 
-<h1>Teaching</h1>
-<p>Information about teaching goes here.</p>
+
+
 
 ## Teaching Qualifications
 
