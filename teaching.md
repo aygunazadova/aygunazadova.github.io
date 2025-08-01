@@ -20,7 +20,7 @@ Graduate Laboratory Assistant at the School of LIfe Sciences, University of Esse
 + BS102 Genetics and Evolution
 + BS222 Genome Science
 + BS161 Anatomy and Physiology
-+ BS101&BS225 Cell Biology
++ BS101 & BS225 Cell Biology
 + BS934 Gene technology/CRISPR
 + BS230 Proteins and Macromolecular Assemblies
 + BS220 Human Genetics
