@@ -4,8 +4,7 @@
 + Postgraduate Certificate in Higher Education Practice (PG CHEP) 2025
 + Fellow of the Higher Education Academy (FHEA) 2024
 + Excellence in Education Award 2024
-
-  &nbsp;  <!-- This creates a blank space -->
+  
 
 ## Teaching Experience
 
@@ -32,8 +31,7 @@
 **Graduate Laboratory Assistant at Essex Pathways Department, University of Essex, 2022-2023**
 + IA102 Introduction to Biology
 + IA123 Chemistry for Biology
-
-  &nbsp;  <!-- This creates a blank space -->
+  
 
 ## Publications in Education 
 
