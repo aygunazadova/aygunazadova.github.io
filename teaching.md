@@ -1,4 +1,3 @@
-<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
 # Teaching
 
 
@@ -9,3 +8,23 @@
 
 + Postgraduate Certificate in Higher Education Practice (PG CHEP) 2025
 + Fellow of the Higher Education Academy (FHEA) 2024
+
+## Teaching Experience
+
+Lecturer/Module Leader in Biology at Essex Pathways Department, University of Essex, 2023-2025
++ IA102 Introduction to Biology
+
+Graduate Laboratory Assistant at the School of LIfe Sciences, University of Essex, 2021-2025
++ BS132 General and Organic Chemistry
++ BS237 Clinical Biochemistry
++ BS221 Molecular Biology: Genes, Proteins & Disease
++ BS102 Genetics and Evolution
++ BS222 Genome Science
++ BS161 Anatomy and Physiology
++ BS101 Cell Biology
++ BS934 Gene technology/CRISPR
++ BS230 Proteins and Macromolecular Assemblies
++ BS220 Human Genetics
++ BS131 Seperation of Cytochrome C and Albumin by gel chromatography/Determination of Vitamin C concentration
++ BS238 Cellular pathology/Dot Blot
++ BS143 Transferrable Skills in Life Sciences
