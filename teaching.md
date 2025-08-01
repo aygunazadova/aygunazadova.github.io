@@ -1,7 +1,4 @@
-<div style="font-family: Arial, sans-serif;">
-This page uses Arial font.
-</div>
-
+<div style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
 # Teaching
 
 
