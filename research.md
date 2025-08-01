@@ -1,12 +1,14 @@
 ## Research Experience 
 
 **Honorary Fellow at the School of Life Sciences Department, Essex University, Aug 2025-present**
-+ Projects: The p90 Ribosomal S6 Kinases 2 and 4 promote Prostate Cancer cell proliferation in androgen-dependent and independent ways
-+ Projects: Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer
-+ Projects: Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death
+Projects:
++ The p90 Ribosomal S6 Kinases 2 and 4 promote Prostate Cancer cell proliferation in androgen-dependent and independent ways
++ Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer
++ Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death
   
 **Specialist Technician at the School of Life Sciences Department, Essex University, May 2023-Jul 2023**
-+ Projects: Analysis of coding gene expression from small RNA sequencing
+Projects:
++ Analysis of coding gene expression from small RNA sequencing
 
  &nbsp;  <!-- This creates a blank space -->
  
