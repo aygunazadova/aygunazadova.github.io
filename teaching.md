@@ -54,5 +54,3 @@ Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedb
   </p>
 </div>
 
-
-</div>
