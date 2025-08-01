@@ -24,8 +24,7 @@
 + BS934 Gene technology/CRISPR
 + BS230 Proteins and Macromolecular Assemblies
 + BS220 Human Genetics
-+ BS131 Seperation of Cytochrome C and Albumin by gel chromatography/
-  Determination of Vitamin C concentration
++ BS131 Seperation of Cytochrome C and Albumin by gel chromatography
 + BS238 Cellular pathology/Dot Blot
 + BS143 Transferrable Skills in Life Sciences
 + BS223 Cells of the immune system 
