@@ -9,10 +9,10 @@
 
 ## Teaching Experience
 
-Lecturer/Module Leader in Biology at Essex Pathways Department, University of Essex, 2023-2025
+**Lecturer/Module Leader in Biology at Essex Pathways Department, University of Essex, 2023-2025**
 + IA102 Introduction to Biology
 
-Graduate Laboratory Assistant at the School of LIfe Sciences, University of Essex, 2021-2025
+**Graduate Laboratory Assistant at the School of LIfe Sciences, University of Essex, 2021-2025**
 
 + BS132 General and Organic Chemistry
 + BS237 Clinical Biochemistry
@@ -29,7 +29,7 @@ Graduate Laboratory Assistant at the School of LIfe Sciences, University of Esse
 + BS143 Transferrable Skills in Life Sciences
 + BS223 Cells of the immune system 
 
-Graduate Laboratory Assistant at Essex Pathways Department, University of Essex, 2022-2023
+**Graduate Laboratory Assistant at Essex Pathways Department, University of Essex, 2022-2023**
 + IA102 Introduction to Biology
 + IA123 Chemistry for Biology
 
