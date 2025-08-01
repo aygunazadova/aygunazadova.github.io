@@ -1,4 +1,12 @@
+## Research Experience 
 
+**Honorary Fellow at the School of Life Sciences Department, Essex University, 2025-present**
+
+**Specialist Technician at the School of Life Sciences Department, Essex University, May 2023 – 
+Jul 2023**
+
+ &nbsp;  <!-- This creates a blank space -->
+ 
 ## Publications 
 
 **Preprint** 
