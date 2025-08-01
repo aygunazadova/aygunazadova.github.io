@@ -1,8 +1,9 @@
 
-## Teaching Qualifications
+## Teaching Qualifications & Awards
 
 + Postgraduate Certificate in Higher Education Practice (PG CHEP) 2025
 + Fellow of the Higher Education Academy (FHEA) 2024
++ Excellence in Education Award 2024
 
   &nbsp;  <!-- This creates a blank space -->
 
@@ -32,3 +33,8 @@ Graduate Laboratory Assistant at Essex Pathways Department, University of Essex,
 + IA102 Introduction to Biology
 + IA123 Chemistry for Biology
 
+  &nbsp;  <!-- This creates a blank space -->
+
+## Publications in Education 
+
+Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedback in Higher Education" (Working paper) 
