@@ -1,15 +1,19 @@
 
-# Welcome to My Website
-This is my homepage content.
+# Aygun Azadova
+Honorary Fellow at the University of Essex
 
+I have comprehensive experience in computational biology through both research and teaching roles. I am an Honorary Fellow in the School of Life Sciences at the University of Essex. Previously, I worked as a Lecturer in Biology and Specialist Technician at the same university. My research interest is the application of data sciencea and machine learning in cancer research. 
 
+## Education
 
-## Funding & Grants
++ PhD in Molecular Medicine, School of Life Sciences, University of Essex, UK, 2025
++ MSc in Molecular Biology, Medical Faculty, Debrecen University, Hungary, 2018
+
+## Selected Awards
+
 + Rise Professional Award, German Academic Exchange Service (known as DAAD), 2024
 + United States Agency for International     Development (USAID) for Next generation sequencing (NGS) workshop, Dubai, United Arab Amirates, 2019
 + Stipendium Hungaricum Scholarship for Master’s degree, Tempus Public Foundation, 2016-2018
-+ Government Scholarships for Master’s degree, 2013
-+ Government Scholarships for Bachelor’s degree, 2011
 
 
  &nbsp;  <!-- This creates a blank space -->
