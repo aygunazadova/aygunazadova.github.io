@@ -11,8 +11,6 @@ Projects:
 
 Projects:
 + Analysis of coding gene expression from small RNA sequencing
-
- &nbsp;  <!-- This creates a blank space -->
  
 ## Publications 
 
