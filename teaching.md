@@ -47,7 +47,7 @@ Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedb
   <p>
     © 2025 Aygun Azadova. All rights reserved.
     <span style="float: right;">
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/aygunazadova/" target="_blank">LinkedIn</a>
     </span>
   </p>
 </div>
