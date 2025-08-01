@@ -1,3 +1,5 @@
+<div style="font-family: Georgia, 'Times New Roman', serif;">
+
 
 ## Teaching Qualifications & Awards
 
@@ -50,4 +52,7 @@ Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedb
       <a href="https://www.linkedin.com/in/aygunazadova/" target="_blank" style="color: black; text-decoration: none;">LinkedIn</a>
     </span>
   </p>
+</div>
+
+
 </div>
