@@ -15,7 +15,7 @@ I have comprehensive experience in computational biology through both research a
 
 
 <!-- Force large gap before footer -->
-<div style="height: 200px; width: 100%;"></div>
+<div style="height: 300px; width: 100%;"></div>
 
 ---
 
