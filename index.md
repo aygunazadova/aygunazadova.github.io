@@ -1,7 +1,7 @@
 
 
 
-
+&nbsp;  <!-- This creates a blank space -->
 
 
 # Welcome to my personal website
