@@ -21,6 +21,7 @@ I have comprehensive experience in computational biology through both research a
 + Amna Allafi, Ellie Rees, Rashin Khalaj, Aygun Azadova, Andrea Mohr, Ralf Zwazka, Philippe Laissue, Greg N. Brooke "Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death"
 + Aygun Azadova, Greg Brooke, Orkhan Isayev "Oestrogen regulation of Notch signalling pathway in breast cancer"
 + Aygun Azadova, Greg N. Brooke, Antonio Marco "The role of Oestrogen Receptor-𝛼 (ER𝛼) crosstalk with Mineralocorticoid Receptor in breast cancer"
++ Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedback in Higher Education"
 
 ---
 
