@@ -89,27 +89,16 @@
 <!-- Bootstrap JS (needed for offcanvas menu) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 
-<!-- Mobile font size fix: placed at the very end so it overrides Bootstrap -->
+<!-- Force mobile font size to override everything -->
 <style>
 @media (max-width: 768px) {
-  body, 
-  body p, 
-  body li, 
-  body a, 
-  body span, 
-  body div {
-    font-size: 30px !important;
+  html, body, p, li, a, span, div {
+    font-size: 18px !important;
     line-height: 1.7 !important;
   }
-  h1 {
-    font-size: 2.2rem !important;
-  }
-  h2 {
-    font-size: 1.8rem !important;
-  }
-  h3 {
-    font-size: 1.5rem !important;
-  }
+  h1 { font-size: 2.2rem !important; }
+  h2 { font-size: 1.8rem !important; }
+  h3 { font-size: 1.5rem !important; }
 }
 </style>
 
