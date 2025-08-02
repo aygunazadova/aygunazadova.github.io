@@ -92,13 +92,19 @@
 <!-- Mobile font size fix: placed last so it overrides everything -->
 <style>
 @media (max-width: 768px) {
-  .container * {
-    font-size: 18px !important;
-    line-height: 1.8 !important;
+  html body .container * {
+    font-size: 20px !important; /* Bigger text everywhere */
+    line-height: 1.9 !important;
   }
-  .container h1 { font-size: 2.4rem !important; }
-  .container h2 { font-size: 2rem !important; }
-  .container h3 { font-size: 1.6rem !important; }
+  html body .container h1 {
+    font-size: 2.5rem !important;
+  }
+  html body .container h2 {
+    font-size: 2.1rem !important;
+  }
+  html body .container h3 {
+    font-size: 1.7rem !important;
+  }
 }
   
 </style>
