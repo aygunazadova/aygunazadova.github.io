@@ -39,41 +39,15 @@
     }
 
     /* Reduce off-canvas width */
-.offcanvas.offcanvas-end {
-  width: 250px !important; /* narrower menu */
-}
+    .offcanvas.offcanvas-end {
+      width: 250px !important; /* narrower menu */
+    }
 
-/* Bigger, more spaced-out menu items */
-.offcanvas-body .nav-link {
-  font-size: 1.2rem;
-  padding: 10px 0;
-}
-    
-/* Bigger text for all content on small screens */
-@media (max-width: 768px) {
-  body, 
-  body p, 
-  body li, 
-  body a, 
-  body span, 
-  body div {
-    font-size: 18px !important; /* Bigger text everywhere */
-    line-height: 1.7 !important;
-  }
-
-  h1 {
-    font-size: 2.2rem !important;
-  }
-
-  h2 {
-    font-size: 1.8rem !important;
-  }
-
-  h3 {
-    font-size: 1.5rem !important;
-  }
-}
-    
+    /* Bigger, more spaced-out menu items */
+    .offcanvas-body .nav-link {
+      font-size: 1.2rem;
+      padding: 10px 0;
+    }
   </style>
 </head>
 <body>
@@ -114,6 +88,30 @@
 
 <!-- Bootstrap JS (needed for offcanvas menu) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+
+<!-- Mobile font size fix: placed at the very end so it overrides Bootstrap -->
+<style>
+@media (max-width: 768px) {
+  body, 
+  body p, 
+  body li, 
+  body a, 
+  body span, 
+  body div {
+    font-size: 18px !important;
+    line-height: 1.7 !important;
+  }
+  h1 {
+    font-size: 2.2rem !important;
+  }
+  h2 {
+    font-size: 1.8rem !important;
+  }
+  h3 {
+    font-size: 1.5rem !important;
+  }
+}
+</style>
 
 </body>
 </html>
