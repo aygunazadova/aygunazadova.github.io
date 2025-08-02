@@ -16,10 +16,6 @@ I have comprehensive experience in computational biology through both research a
 
 
 
-&nbsp;  <!-- This creates a blank space -->
-
-
-
 
 <!-- Force large gap before footer -->
 <div style="height: 400px; width: 100%;"></div>
