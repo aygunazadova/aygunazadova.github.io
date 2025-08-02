@@ -38,23 +38,23 @@
       background-color: #f9f7f3; /* match background */
     }
     
-    /* Increase font size on phones */
+   /* Force larger font size on mobile */
 @media (max-width: 768px) {
   body {
-    font-size: 18px;  /* bigger than the default 16px */
-    line-height: 1.7; /* better spacing */
+    font-size: 18px !important; /* Force override Bootstrap */
+    line-height: 1.7 !important;
   }
 
   h1 {
-    font-size: 2rem; /* bigger headings */
+    font-size: 2rem !important;
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.5rem !important;
   }
 
   h3 {
-    font-size: 1.3rem;
+    font-size: 1.3rem !important;
   }
 }
     
