@@ -27,12 +27,6 @@ Projects:
 + Aygun Azadova, Greg Brooke, Orkhan Isayev "Oestrogen regulation of Notch signalling pathway in breast cancer"
 + Aygun Azadova, Greg N. Brooke, Antonio Marco "The role of Oestrogen Receptor-𝛼 (ER𝛼) crosstalk with Mineralocorticoid Receptor in breast cancer"
   
-## Selected Awards
-
-+ Rise Professional Award, German Academic Exchange Service (known as DAAD), 2024
-+ United States Agency for International     Development (USAID) for Next generation sequencing (NGS) workshop, Dubai, United Arab Amirates, 2019
-+ Stipendium Hungaricum Scholarship for Master’s degree, Tempus Public Foundation, 2016-2018
-  
  &nbsp;  <!-- This creates a blank space -->
  
 ---
