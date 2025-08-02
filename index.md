@@ -13,8 +13,6 @@ I have comprehensive experience in computational biology through both research a
 
 
 
-
-
 <!-- Force large gap before footer -->
 <div style="height: 400px; width: 100%;"></div>
 
