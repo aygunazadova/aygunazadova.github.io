@@ -13,15 +13,15 @@ Cronin, R., Azadova, A., Marco, A., Laissue, P.P., Brooke, G.N. and Prischi, F.,
 
 Brooke, G., Culley, R., Leach, D., Latonen, L., Rees, E., Alkheilewi, M., Pine, A., Fioretti, F., Reader, C., Azadova, A. and Powell, S., 2025. Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer.
 
-Azadova, A., Brooke, G. and Marco, A., 2024. Abstract LB335: Steroid receptor cross-talk in breast cancer. _Cancer Research_, 84(7_Supplement), pp.LB335-LB335.
+Azadova, A., Brooke, G.N. and Marco, A., 2024. Abstract LB335: Steroid receptor cross-talk in breast cancer. _Cancer Research_, 84(7_Supplement), pp.LB335-LB335.
 
-Amna Allafi, Ellie Rees, Rashin Khalaj, Aygun Azadova, Andrea Mohr, Ralf Zwazka, Philippe Laissue, Greg N. Brooke "Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death".
+Allafi A., Rees E., Khalaj R., Azadova A., Mohr A., Zwazka R., Laissue P., Brooke, G.N. "Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death".
 
-Aygun Azadova, Greg Brooke, Orkhan Isayev "Oestrogen regulation of Notch signalling pathway in breast cancer".
+Azadova A., Brooke, G.N., Isayev O. "Oestrogen regulation of Notch signalling pathway in breast cancer".
 
-Aygun Azadova, Greg N. Brooke, Antonio Marco "The role of Oestrogen Receptor-𝛼 (ER𝛼) crosstalk with Mineralocorticoid Receptor in breast cancer".
+Azadova A., Brooke, G.N., Antonio Marco "The role of Oestrogen Receptor-𝛼 (ER𝛼) crosstalk with Mineralocorticoid Receptor in breast cancer".
 
-Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedback in Higher Education".
+Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher Education".
 
 &nbsp;  <!-- This creates a blank space -->
 
