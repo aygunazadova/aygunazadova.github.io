@@ -10,15 +10,6 @@ I have comprehensive experience in computational biology through both research a
 
 
 
-&nbsp;  <!-- This creates a blank space -->
-
-
-
-
-
-&nbsp;  <!-- This creates a blank space -->
-
-
 
 
 
