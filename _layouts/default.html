@@ -38,23 +38,25 @@
       background-color: #f9f7f3; /* match background */
     }
     
-   /* Force larger font size on mobile */
+ /* Force larger text for mobile site content */
 @media (max-width: 768px) {
-  body {
-    font-size: 18px !important; /* Force override Bootstrap */
-    line-height: 1.7 !important;
+  .container,
+  .container p,
+  .container li {
+    font-size: 18px !important; /* Bigger text */
+    line-height: 1.7 !important; /* Better spacing */
   }
 
-  h1 {
+  .container h1 {
     font-size: 2rem !important;
   }
 
-  h2 {
-    font-size: 1.5rem !important;
+  .container h2 {
+    font-size: 1.6rem !important;
   }
 
-  h3 {
-    font-size: 1.3rem !important;
+  .container h3 {
+    font-size: 1.4rem !important;
   }
 }
     
