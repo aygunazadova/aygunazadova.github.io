@@ -35,7 +35,7 @@
 
 ## Publications in Education 
 
-Aygun Azadova, Farid Adilov and Victoria Allen-Baumen. "Technology-enabled feedback in Higher Education" (Working paper) 
+Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher Education". (Working paper) 
 
  &nbsp;  <!-- This creates a blank space -->
 
