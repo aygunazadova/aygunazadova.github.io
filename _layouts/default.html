@@ -26,11 +26,16 @@
       color: #000 !important; /* darker on hover */
     }
 
-    /* Center body text by increasing margins */
+    /* Narrower body text area */
     .container {
-      max-width: 900px; /* makes the content narrower */
+      max-width: 750px; /* narrower than before for more side space */
       margin-left: auto;
       margin-right: auto;
+    }
+
+    /* Offcanvas menu styling */
+    .offcanvas {
+      background-color: #f9f7f3; /* match background */
     }
   </style>
 </head>
@@ -42,18 +47,25 @@
     <a class="navbar-brand" href="index.html">Aygun Azadova</a>
 
     <!-- Hamburger button for mobile -->
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+      aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <!-- Collapsible menu -->
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ms-auto">
-        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-        <li class="nav-item"><a class="nav-link" href="research.html">Research</a></li>
-        <li class="nav-item"><a class="nav-link" href="teaching.html">Teaching</a></li>
-      </ul>
+    <!-- Offcanvas menu (right side) -->
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+      aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Menu</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="research.html">Research</a></li>
+          <li class="nav-item"><a class="nav-link" href="teaching.html">Teaching</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </nav>
@@ -63,7 +75,7 @@
   {{ content }}
 </div>
 
-<!-- Bootstrap JS (needed for hamburger toggle) -->
+<!-- Bootstrap JS (needed for offcanvas menu) -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
 
 </body>
