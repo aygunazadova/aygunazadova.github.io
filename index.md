@@ -2,7 +2,7 @@
 
 &nbsp;  <!-- This creates a blank space -->
 
-# Aygun Azadova
+# Welcome to my personal website
 
 I have comprehensive experience in computational biology through both research and teaching roles. I am an Honorary Fellow in the School of Life Sciences at the University of Essex. 
 
