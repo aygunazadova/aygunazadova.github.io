@@ -4,8 +4,12 @@
 
 Projects:
 + The p90 Ribosomal S6 Kinases 2 and 4 promote Prostate Cancer cell proliferation in androgen-dependent and independent ways
-+ Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer
 + Inhibition of porphyrin synthesis selectively sensitises prostate cancer cells to ROS damage and promotes caspase-independent cell death
+
+**Research Assitant at the School of Life Sciences Department, Essex University, Jul 2025-Oct 2025**
+
+Projects:
++ Disruption of androgen receptor-cofactor interactions by the RNA-binding protein FUS/TLS alters androgen signalling in prostate cancer
   
 **Specialist Technician at the School of Life Sciences Department, Essex University, May 2023-Jul 2023**
 
