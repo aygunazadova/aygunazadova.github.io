@@ -8,7 +8,7 @@ I have comprehensive experience in computational biology through both research a
 
 My research interests are targetting steroid receptor signalling in diagnosing and treating cancer disease, the application of data science and machine learning in cancer research. 
 
-Previously, I worked as a Lecturer in Biology and Specialist Technician at Essex. 
+Previously, I worked as a Lecturer in Biology and Specialist Technician & Research Assistant at Essex. 
 
 I hold my PhD in Molecular Medicine and Postgraduate Certificate in Higher Education Practice (PG CHEP) from the University of Essex. 
 
