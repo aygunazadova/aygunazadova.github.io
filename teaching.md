@@ -26,7 +26,7 @@
 + IA123 Chemistry for Biology
   
 
-## Publications in Education 
+## Publications
 
 Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher Education". (Working paper) 
 
