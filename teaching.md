@@ -1,11 +1,4 @@
 
-## Teaching Qualifications & Awards
-
-+ Postgraduate Certificate in Higher Education Practice (PG CHEP) 2025
-+ Fellow of the Higher Education Academy (FHEA) 2024
-+ Excellence in Education Award 2024
-  
-
 ## Teaching Experience
 
 **Lecturer/Module Leader in Biology at Essex Pathways Department, University of Essex, 2023-2025**
@@ -36,6 +29,15 @@
 ## Publications in Education 
 
 Azadova A., Adilov F. and Allen-Baumen V. "Technology-enabled feedback in Higher Education". (Working paper) 
+
+
+## Teaching Qualifications & Awards
+
++ Postgraduate Certificate in Higher Education Practice (PG CHEP) 2025
++ Fellow of the Higher Education Academy (FHEA) 2024
++ Excellence in Education Award 2024
+  
+
 
  &nbsp;  <!-- This creates a blank space -->
 
